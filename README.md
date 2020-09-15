@@ -1,3 +1,3 @@
 # Filter-Table-Using-Html-CSS-and-Javascript
 
-<img src="img/4f2gop.gif">
+![Filter Table Preview](img/4f2gop.gif)
